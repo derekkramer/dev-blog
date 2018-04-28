@@ -56,7 +56,7 @@ $ npm start
 
 ## <a name="License"><a>License
 
-The MIT License (MIT)
+MIT License
 
 Copyright &copy; 2018 Derek Kramer
 
