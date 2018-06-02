@@ -14,7 +14,7 @@
 
 ---
 
-**DevBlog** is a web app that amalgamates helpful article and tutorial Gists from GitHub authored by [Derek Kramer](https://github.com/derekkramer) and [Dan Beerman](https://github.com/lebeerman), then presents them in an organized and filterable front-end. Users of the app will also be able to create an account and favorite articles or tutorials that they found useful for viewing later.
+**DevBlog** is an amalgamation of helpful articles and tutorials authored by [Derek Kramer](https://github.com/derekkramer) and [Dan Beerman](https://github.com/lebeerman). Users can create an account and favorite articles or tutorials that they found useful for viewing later.
 
 <!-- ![Screenshot](readme-src/spacexaminer-screenshot-shadow.png) -->
 
@@ -58,7 +58,7 @@ $ npm start
 
 MIT License
 
-Copyright &copy; 2018 Derek Kramer and Dan Beerman
+Copyright (c) 2018 Derek Kramer and Dan Beerman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
